@@ -8,3 +8,6 @@ console.log(friendAge);
 
 var index = friendAge.indexOf(12);
 console.log(index);
+
+//push---- added as a last element
+//pop----- remove last element
