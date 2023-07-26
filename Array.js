@@ -11,3 +11,16 @@ console.log(index);
 
 //push---- added as a last element
 //pop----- remove last element
+//shift----- remove first element
+//unshift----- added as a first element
+
+//array slice
+//number.slice(2,4)
+//2 theke suru 4 er ag porjonto
+
+//for string
+//name.includes('')
+//case sensative
+
+//substring
+//name.substring(0,10)
