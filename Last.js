@@ -14,3 +14,16 @@ console.log(friend.includes(35));
 const friend2 = [23,45,67];
 const all = friend.concat(friend2);
 console.log(all);
+
+// slice --- start index, last index er age katbe
+const partial = all.slice(2,5);
+console.log(partial);
+
+// splice --- Removes elements from an array and, 
+//if necessary, inserts new elements in their place, returning the deleted elements.
+const partial1 = all.splice(2,2);
+console.log(partial1);
+
+
+// Remove Duplicate Elements
+const katbe = [10, 11, 22,32, 10, 23, 45, 22];
