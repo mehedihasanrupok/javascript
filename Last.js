@@ -26,4 +26,5 @@ console.log(partial1);
 
 
 // Remove Duplicate Elements
+// using includes, indexof
 const katbe = [10, 11, 22,32, 10, 23, 45, 22];
